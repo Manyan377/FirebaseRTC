@@ -85,7 +85,7 @@ button {
 div#videos > video {
     background: black;
     width: 1280px;
-    height: 360px;
+    height: 1280px;
     display: block;
     margin: 1em;
 }
