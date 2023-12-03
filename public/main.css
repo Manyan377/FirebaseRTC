@@ -75,16 +75,16 @@ button {
     margin: 0.2em 0.1em;
 }
 
-div#videos {
+/* div#videos {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-}
+} */
 
 div#videos > video {
     background: black;
-    width: 640px;
-    height: 100%;
+    width: 320px;
+    height: 180px;
     display: block;
     margin: 1em;
 }
